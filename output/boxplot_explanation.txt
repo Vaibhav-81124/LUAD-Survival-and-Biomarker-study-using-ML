@@ -1,0 +1,12 @@
+
+Box Plot for Gene Expression by Survival Status
+-----------------------------------------------
+
+Box plots help visualize how gene expression varies between patients who survived vs. those who didn't.
+
+- Useful for identifying potential biomarkers.
+- Highlights outliers and expression spread.
+- Median line shows central tendency.
+- Helps biological interpretation.
+
+This can guide future survival analysis or functional validation.
